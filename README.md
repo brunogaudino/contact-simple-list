@@ -1,2 +1,2 @@
 # contact-simple-list
-A simple lista contact build in java
+A list contact build in java
